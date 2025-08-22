@@ -1,12 +1,3 @@
-<div align="center">
-  <h2>Disclaimer</h2>
-</div>
-<div align="justify">
-The content obtained from TarangPlus.in is being used solely for educational purposes. We acknowledge that TarangPlus.in owns the rights to the content, and it is used in accordance with fair use principles and any applicable permissions provided by TarangPlus.in. We do not claim ownership of this content, and all rights remain with TarangPlus.in.
-</div>
-
-
-### Here 👍
 | NAME  | URL |
 | ------------- | ------------- |
 | Tarang TV  | https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_240p/chunks.m3u8 |
@@ -14,6 +5,16 @@ The content obtained from TarangPlus.in is being used solely for educational pur
 | Alankar | https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_240p/chunks.m3u8 |
 | Tarang Music | https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_240p/chunks.m3u8 |
 | Prarthana | https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_240p/chunks.m3u8 |
+
+
+
+<div align="center">
+  <h2>Disclaimer</h2>
+</div>
+<div align="justify">
+The content obtained from TarangPlus.in is being used solely for educational purposes. We acknowledge that TarangPlus.in owns the rights to the content, and it is used in accordance with fair use principles and any applicable permissions provided by TarangPlus.in. We do not claim ownership of this content, and all rights remain with TarangPlus.in.
+</div>
+
 
 ```
 Quality: live_240p, live_360p, live_720p
